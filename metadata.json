@@ -1,0 +1,5 @@
+{
+  "name": "Virtual Stylist AI",
+  "description": "Upload a clothing item and get AI-generated outfit recommendations for Casual, Business, and Night Out styles. Edit the results with natural language prompts.",
+  "requestFramePermissions": []
+}
